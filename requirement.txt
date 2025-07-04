@@ -1,0 +1,8 @@
+   numpy
+   scipy
+   pandas
+   matplotlib
+   librosa
+   PyWavelets
+   tensorflow>=2.0
+   scikit-learn
