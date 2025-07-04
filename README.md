@@ -6,8 +6,7 @@ Automated classification of musical notes from short WAV recordings Using time�
 
 ```
 audio-note-classification-rnn/
-├── dataset/                     # your folder of WAV files
-│   └── [*.wav]
+├── Dataset.zip
 ├── Audio_note_classification_rnn.ipynb                # the main analysis notebook
 ├── requirements.txt             # all Python dependencies
 └── README.md                    # project overview & usage
@@ -29,7 +28,7 @@ audio-note-classification-rnn/
 
 3. **Repository Contents**
 
-   * `dataset/` – WAV files organized by note label
+   * `Dataset.zip` – WAV files organized by note label
    * `Audio_note_classification_rnn.ipynb` – end-to-end notebook with code, outputs, plots
    * `requirements.txt` – installable dependencies
 
